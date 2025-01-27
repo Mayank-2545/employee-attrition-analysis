@@ -34,7 +34,7 @@ employee-attrition-analysis/
 ## Setup Instructions
 1. **Clone the Repository**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Mayank-2545/employee-attrition-analysis.git
    cd employee-attrition-analysis
    ```
 
